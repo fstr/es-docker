@@ -1,0 +1,2 @@
+cluster.name: "wbs_prod"
+network.host: 0.0.0.0
